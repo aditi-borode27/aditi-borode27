@@ -44,7 +44,6 @@ A DevOps Engineer who thrives in the command line. My focus is on building scala
 <span><img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox"/></span>
 <span><img src="https://img.shields.io/badge/TCP%2FIP-0277BD?style=flat-square" alt="TCP/IP"/></span>
 <span><img src="https://img.shields.io/badge/VPN-512DA8?style=flat-square&logo=openvpn&logoColor=white" alt="VPN"/></span>
-<!-- <span><img src="https://img.shields.io/badge/DNS%20Filtering-NxtDNS-1565C0?style=flat-square" alt="DNS Filtering"/></span> -->
 <span><img src="https://img.shields.io/badge/Firewall-FF6F00?style=flat-square&logo=fortinet&logoColor=white" alt="Firewall"/></span>
 <span><img src="https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square&logo=securityscorecard&logoColor=white" alt="IDS/IPS"/></span>
 <span><img src="https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square&logo=bugcrowd&logoColor=white" alt="Honeypot"/></span>
