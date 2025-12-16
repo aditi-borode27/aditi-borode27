@@ -3,14 +3,6 @@
   <img src="./banner.jpg" alt="Banner Image" width="100%">
 </div> -->
 
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aditi-borode27&color=brightgreen)
-[![Aditi Borode](https://img.shields.io/badge/Aditi%20Borode-blue?style=flat-square)](https://www.linkedin.com/in/aditi-borode)
-[![GitHub Followers](https://img.shields.io/github/followers/aditi-borode27?label=follow&style=social)](https://github.com/aditi-borode27)
-
-</div>
-
 <!-- Intro -->
 # Hey 👋, I'm Aditi
 
@@ -71,34 +63,14 @@ A Backend and DevOps Engineer who thrives in the command line. My focus is on bu
 <span><img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm"/></span>
 </div>
 
-
-
-<!-- ## Achievements
-
-<div align="left">
-  <span><img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025" /></span>
-<!--
-  <div align="left">
-    <img src="https://assets.holopin.io/hf2025levels/lvl1-astronaut.webp" width="40px" />
-    <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" width="40px" />
-    <img src="https://assets.holopin.io/hf2025levels/lvl3-astronaut.webp" width="40px" />
-    <img src="https://assets.holopin.io/hf2025levels/lvl4-astronaut.webp" width="40px" />
-    <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="40px" />
-  </div>
-
-  
-  <img src="https://holopin.me/aditi-borode27" />
-
-</div>
--->
-
 ## Coding Profiles
 
 <div align="left">
   <a href="https://leetcode.com/u/aditi_borode/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06"></a>
 </div>
 
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-borode)
 ## GitHub Stats
 
 <table align="center">
