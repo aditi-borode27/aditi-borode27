@@ -32,35 +32,84 @@ A Backend and DevOps Engineer who thrives in the command line. My focus is on bu
 <span><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></span>
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></span>
-<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/></span>
+<span><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/></span>
+
+</div>
+
+### Web & Deployment
+
+<div align="left">
+
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></span>
-<span><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/></span>
-<span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/></span>
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/></span>
-<span><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/></span>
+
+</div>
+
+### Cloud, Containers & Orchestration
+
+<div align="left">
+
+<span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/></span>
+<span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/></span>
+<span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></span>
+<span><img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm"/></span>
+
+</div>
+
+### Operating Systems & Virtualization
+
+<div align="left">
+
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/></span>
+<span><img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/></span>
 <span><img src="https://img.shields.io/badge/VMware-607D8B?style=flat-square&logo=vmware&logoColor=white" alt="VMware"/></span>
 <span><img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox"/></span>
-<span><img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/></span>
+
+</div>
+
+### Networking
+
+<div align="left">
+
 <span><img src="https://img.shields.io/badge/TCP%2FIP-0277BD?style=flat-square" alt="TCP/IP"/></span>
 <span><img src="https://img.shields.io/badge/VPN-512DA8?style=flat-square&logo=openvpn&logoColor=white" alt="VPN"/></span>
 <span><img src="https://img.shields.io/badge/DNS%20Filtering-NxtDNS-1565C0?style=flat-square" alt="DNS Filtering"/></span>
+
+</div>
+
+### Security Concepts
+
+<div align="left">
+
 <span><img src="https://img.shields.io/badge/Firewall-FF6F00?style=flat-square&logo=fortinet&logoColor=white" alt="Firewall"/></span>
 <span><img src="https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square&logo=securityscorecard&logoColor=white" alt="IDS/IPS"/></span>
 <span><img src="https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square&logo=bugcrowd&logoColor=white" alt="Honeypot"/></span>
 <span><img src="https://img.shields.io/badge/Digital%20Forensics-37474F?style=flat-square&logo=elastic&logoColor=white" alt="Digital Forensics"/></span>
 <span><img src="https://img.shields.io/badge/Security%20Mindset-2E7D32?style=flat-square&logo=hackthebox&logoColor=white" alt="Security Mindset"/></span>
+
+</div>
+
+### Security Tools & Monitoring
+
+<div align="left">
+
 <span><img src="https://img.shields.io/badge/Snort-EF3B2D?style=flat-square&logo=snort&logoColor=white" alt="Snort"/></span>
 <span><img src="https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white" alt="Nagios"/></span>
 <span><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/></span>
 <span><img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/></span>
 <span><img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white" alt="Nessus"/></span>
 <span><img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/></span>
+
+</div>
+
+### Web Servers
+
+<div align="left">
+
 <span><img src="https://img.shields.io/badge/Apache-CA2136?style=flat-square&logo=apache&logoColor=white" alt="Apache"/></span>
 <span><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/></span>
-<span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/></span>
-<span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></span>
-<span><img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm"/></span>
+
 </div>
 
 ## Coding Profiles
