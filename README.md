@@ -29,6 +29,26 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
+### 🌐 Networking & Security
+![OSI Model](https://img.shields.io/badge/OSI_Model-7_Layers-blue?style=flat-square)
+![TCP/IP Model](https://img.shields.io/badge/TCP/IP_Model-4_Layers-blue?style=flat-square)
+![IPv4](https://img.shields.io/badge/IPv4-Addressing-0277BD?style=flat-square)
+![IPv6](https://img.shields.io/badge/IPv6-Addressing-039BE5?style=flat-square)
+![Subnetting](https://img.shields.io/badge/Subnetting-CIDR-0288D1?style=flat-square)
+![CIDR](https://img.shields.io/badge/CIDR-Networking-0288D1?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-Name_Resolution-1565C0?style=flat-square)
+![DHCP](https://img.shields.io/badge/DHCP-IP_Assignment-1565C0?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP-Web-lightgrey?style=flat-square)
+![HTTPS](https://img.shields.io/badge/HTTPS-Secure_Web-2E7D32?style=flat-square)
+![SSH](https://img.shields.io/badge/SSH-Secure_Access-black?style=flat-square&logo=ssh&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-Network_Path-1976D2?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN-Segmentation-1976D2?style=flat-square)
+![NAT](https://img.shields.io/badge/NAT-Address_Translation-1976D2?style=flat-square)
+![Firewall](https://img.shields.io/badge/Firewall-Network_Security-D32F2F?style=flat-square)
+![VPN](https://img.shields.io/badge/VPN-Encrypted_Tunnel-388E3C?style=flat-square&logo=openvpn&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square)
+![Honeypot](https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square)
+
 ### ☁️ Cloud, Containers & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -45,13 +65,6 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
-
-### 🌐 Networking & Security
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0277BD?style=flat-square)
-![VPN](https://img.shields.io/badge/OpenVPN-512DA8?style=flat-square&logo=openvpn&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=flat-square)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square)
-![Honeypot](https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square)
 
 ### 🔐 Security Tools & Monitoring
 ![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=flat-square&logo=snort&logoColor=white)
