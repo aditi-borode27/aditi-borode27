@@ -1,101 +1,73 @@
 # Hey 👋 I'm Aditi
 
-![PG-DITISS](https://img.shields.io/badge/PG--DITISS-C--DAC%20Certified-blue)
-![Linux](https://img.shields.io/badge/Linux-System%20Administration-black?logo=linux)
+![PG-DITISS](https://img.shields.io/badge/PG--DITISS-Systems%20%26%20Security-blue)
+![Linux](https://img.shields.io/badge/Linux-Administration-black?logo=linux)
 ![Networking](https://img.shields.io/badge/Networking-TCP/IP-blue)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Network%20Defense-red)
-![DevOps](https://img.shields.io/badge/DevOps-Infrastructure%20Automation-green)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defense%20%26%20Monitoring-red)
+![DevOps](https://img.shields.io/badge/DevOps-Automation%20%26%20Reliability-green)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws)
 
-🎓 **PG Diploma in IT Infrastructure, Systems & Security (PG-DITISS)**  
-C-DAC | Sunbeam Institute of Information Technology, Pune  
-📊 **Grade A | 80.33%**
+🎓 **PG-DITISS Student** with a strong foundation in **Linux systems, networking, cybersecurity, and IT infrastructure**,  
+and hands-on exposure to **DevOps practices** like automation, containers, and cloud platforms.
 
-I have a strong foundation in **Linux systems, computer networks, cybersecurity, PKI, and IT infrastructure**, with practical exposure to **DevOps and automation concepts**.
-
----
-
-## 📚 PG-DITISS Core Subjects
-
-### 🌐 Fundamentals of Computer Networks
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue)
-![DNS](https://img.shields.io/badge/DNS-Network%20Services-blue)
-![Routing](https://img.shields.io/badge/Routing-Switching-blue)
-
-- OSI & TCP/IP models  
-- Routing, switching, DNS, DHCP  
-- Network troubleshooting  
+I enjoy understanding systems from the **OS level up to cloud infrastructure**, and making them **secure, reliable, and efficient**.
 
 ---
 
-### 🐧 Operating Systems & Administration
+## 👩‍💻 About Me
+- 🎓 PG-DITISS student at **Sunbeam, Pune**
+- 🐧 Linux system administration enthusiast
+- 🌐 Strong interest in networking & infrastructure
+- 🔐 Focused on security, monitoring, and defense
+- ⚙️ Using DevOps tools to automate and improve system reliability
+
+---
+
+## 🛠 Core Skills
+
+### 🐧 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?logo=linux)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-Administration-blue?logo=windows)
 
-- Linux & Windows Server administration  
-- Process, memory & file systems  
-- User, permission & service management  
-
----
-
-### 🔐 Security Concepts
-![CIA](https://img.shields.io/badge/CIA-Triad-red)
-![Auth](https://img.shields.io/badge/Auth-Authentication-red)
-![Crypto](https://img.shields.io/badge/Cryptography-Basics-red)
-
-- Security principles & policies  
-- Authentication & authorization  
-- Cryptography fundamentals  
-
----
-
-### 🛡 Network Defense & Compliance Audit
+### 🌐 Networking
+![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue)
+![VPN](https://img.shields.io/badge/VPN-Secure%20Communication-green)
 ![Firewall](https://img.shields.io/badge/Firewall-Network%20Security-red)
+
+### 🔐 Cybersecurity
 ![IDS/IPS](https://img.shields.io/badge/IDS/IPS-Threat%20Detection-red)
-![Compliance](https://img.shields.io/badge/Compliance-Audit-orange)
+![Honeypot](https://img.shields.io/badge/Honeypot-Attack%20Analysis-red)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-Investigation-purple)
 
-- Firewalls, IDS/IPS  
-- Vulnerability & risk management  
-- Compliance & audit basics  
+### ☁️ Cloud, Containers & DevOps
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-Orchestration-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green)
 
----
+### 📊 Monitoring & Security Tools
+![Snort](https://img.shields.io/badge/Snort-IDS-red)
+![Nagios](https://img.shields.io/badge/Nagios-Monitoring-green)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-blue)
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-red)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black)
 
-### 🔑 PKI & Cyber Forensics
-![PKI](https://img.shields.io/badge/PKI-Certificates-purple)
-![Forensics](https://img.shields.io/badge/Cyber_Forensics-Investigation-purple)
+### 🌍 Web & Servers
+![Apache](https://img.shields.io/badge/Apache-Web%20Server-red?logo=apache)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green?logo=nginx)
 
-- Public Key Infrastructure  
-- Certificates & digital signatures  
-- Evidence collection & analysis  
-
----
-
-### ⚙️ Programming, IT Infrastructure & DevOps
+### 💻 Scripting & Databases
 ![Python](https://img.shields.io/badge/Python-Scripting-blue?logo=python)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
-
-- Python & Bash scripting  
-- Infrastructure management basics  
-- Containers, cloud & DevOps concepts  
-
----
-
-## 🏆 Academic Highlights
-- ✅ **Grade A in Project Work**
-- ✅ **Grade A in General Aptitude & Communication**
-- 📊 **Overall: 482 / 600 (80.33%)**
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aditi-borode)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)  
 📬 **Email:** aditiborode278@gmail.com
 
 ---
 
-⭐ *Strong systems foundation • Secure infrastructure • Continuous learning*
-
-
-
+⭐ *Strong systems foundation. Secure infrastructure. Automated workflows.*
