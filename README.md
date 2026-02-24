@@ -54,6 +54,7 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### 🐧 Operating Systems & Virtualization
@@ -64,10 +65,13 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
 
 ### 🔐 Security Tools & Monitoring
-![Firewall](https://img.shields.io/badge/Firewall-Network_Security-D32F2F?style=flat-square)
-![VPN](https://img.shields.io/badge/VPN-Encrypted_Tunnel-388E3C?style=flat-square&logo=openvpn&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-D32F2F?style=flat-square)
+![VPN](https://img.shields.io/badge/VPN-388E3C?style=flat-square&logo=openvpn&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square)
 ![Honeypot](https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-Secure_Tunneling-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=flat-square&logo=snort&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
