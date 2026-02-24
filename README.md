@@ -68,15 +68,18 @@ A DevOps Engineer who thrives in the command line. My focus is on building scala
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-borode)
-## GitHub Stats
 
-<table align="center">
+
+
+<!-- 
+## GitHub Stats
+<table align="center"> 
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=aditi-borode27&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
