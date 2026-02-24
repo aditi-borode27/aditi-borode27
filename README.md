@@ -64,6 +64,23 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Firewall](https://img.shields.io/badge/Firewall-D32F2F?style=flat-square)
 ![VPN](https://img.shields.io/badge/VPN-388E3C?style=flat-square&logo=openvpn&logoColor=white)
 
+![OSI Model](https://img.shields.io/badge/OSI_Model-007ACC?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP Model](https://img.shields.io/badge/TCP%2FIP_Model-007ACC?style=flat-square&logo=cisco&logoColor=white)
+![IPv4](https://img.shields.io/badge/IPv4-0277BD?style=flat-square&logo=internet-explorer&logoColor=white)
+![IPv6](https://img.shields.io/badge/IPv6-039BE5?style=flat-square&logo=internet-explorer&logoColor=white)
+![Subnetting](https://img.shields.io/badge/Subnetting-0288D1?style=flat-square&logo=google-cloud&logoColor=white)
+![CIDR](https://img.shields.io/badge/CIDR-0288D1?style=flat-square&logo=google-cloud&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-1565C0?style=flat-square&logo=google-dns&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-1565C0?style=flat-square&logo=router&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-lightgrey?style=flat-square&logo=httpie&logoColor=black)
+![HTTPS](https://img.shields.io/badge/HTTPS-2E7D32?style=flat-square&logo=letsencrypt&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-black?style=flat-square&logo=ssh&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-1976D2?style=flat-square&logo=cisco&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-1976D2?style=flat-square&logo=cisco&logoColor=white)
+![NAT](https://img.shields.io/badge/NAT-1976D2?style=flat-square&logo=cisco&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-D32F2F?style=flat-square&logo=fortinet&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-388E3C?style=flat-square&logo=openvpn&logoColor=white)
+
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square)
 ![Honeypot](https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square)
 
