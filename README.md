@@ -23,75 +23,28 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 
 ---
 
-## 🛠 Core Skills
-
-### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-Administration-black?logo=linux)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Administration-blue?logo=windows)
-
-### 🌐 Networking
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue)
-![VPN](https://img.shields.io/badge/VPN-Secure%20Communication-green)
-![Firewall](https://img.shields.io/badge/Firewall-Network%20Security-red)
-
-### 🔐 Cybersecurity
-![IDS/IPS](https://img.shields.io/badge/IDS/IPS-Threat%20Detection-red)
-![Honeypot](https://img.shields.io/badge/Honeypot-Attack%20Analysis-red)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-Investigation-purple)
-
-### ☁️ Cloud, Containers & DevOps
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-Orchestration-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green)
-
-### 📊 Monitoring & Security Tools
-![Snort](https://img.shields.io/badge/Snort-IDS-red)
-![Nagios](https://img.shields.io/badge/Nagios-Monitoring-green)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-blue)
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-red)
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-black)
-
-### 🌍 Web & Servers
-![Apache](https://img.shields.io/badge/Apache-Web%20Server-red?logo=apache)
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green?logo=nginx)
-
-### 💻 Scripting & Databases
-![Python](https://img.shields.io/badge/Python-Scripting-blue?logo=python)
-![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
-
----
-
 ## 🧠 Tech Stack
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
-
 ### ☁️ Cloud, Containers & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
-
 ### 🐧 Operating Systems & Virtualization
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-2F80ED?style=flat-square&logo=virtualbox&logoColor=white)
-
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
-
----
 
 ### 🌐 Networking & Security
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0277BD?style=flat-square)
@@ -99,8 +52,6 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=flat-square)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square)
 ![Honeypot](https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square)
-
----
 
 ### 🔐 Security Tools & Monitoring
 ![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=flat-square&logo=snort&logoColor=white)
@@ -111,10 +62,7 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5FD4B3?style=flat-square&logo=uptimekuma&logoColor=white)
-
----
 
 ### 🌍 Web & Databases
 ![Apache](https://img.shields.io/badge/Apache-CA2136?style=flat-square&logo=apache&logoColor=white)
