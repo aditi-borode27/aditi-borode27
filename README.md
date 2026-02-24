@@ -29,7 +29,7 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### 🌐 Networking & Security
+### 🌐 Networking
 ![OSI Model](https://img.shields.io/badge/OSI_Model-7_Layers-blue?style=flat-square)
 ![TCP/IP Model](https://img.shields.io/badge/TCP/IP_Model-4_Layers-blue?style=flat-square)
 ![IPv4](https://img.shields.io/badge/IPv4-Addressing-0277BD?style=flat-square)
@@ -44,10 +44,7 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Routing](https://img.shields.io/badge/Routing-Network_Path-1976D2?style=flat-square)
 ![VLAN](https://img.shields.io/badge/VLAN-Segmentation-1976D2?style=flat-square)
 ![NAT](https://img.shields.io/badge/NAT-Address_Translation-1976D2?style=flat-square)
-![Firewall](https://img.shields.io/badge/Firewall-Network_Security-D32F2F?style=flat-square)
-![VPN](https://img.shields.io/badge/VPN-Encrypted_Tunnel-388E3C?style=flat-square&logo=openvpn&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square)
-![Honeypot](https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square)
+
 
 ### ☁️ Cloud, Containers & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -67,6 +64,10 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
 
 ### 🔐 Security Tools & Monitoring
+![Firewall](https://img.shields.io/badge/Firewall-Network_Security-D32F2F?style=flat-square)
+![VPN](https://img.shields.io/badge/VPN-Encrypted_Tunnel-388E3C?style=flat-square&logo=openvpn&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=flat-square)
+![Honeypot](https://img.shields.io/badge/Honeypot-6A1B9A?style=flat-square)
 ![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=flat-square&logo=snort&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
