@@ -60,11 +60,12 @@ A DevOps Engineer who thrives in the command line. My focus is on building scala
 
 </div>
 
+<!-- 
 ## Coding Profiles
 
 <div align="left">
   <a href="https://leetcode.com/u/aditi_borode/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06"></a>
-</div>
+</div> -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-borode)
