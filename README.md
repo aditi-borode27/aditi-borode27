@@ -15,7 +15,7 @@ I enjoy understanding systems from the **OS level up to cloud infrastructure**, 
 ---
 
 ## 👩‍💻 About Me
-- 👩🏻‍💻 Technical Trainee at EDAG India
+- 💼 Technical Trainee at EDAG India
 - 🎓 PG-DITISS at **Sunbeam, Pune**
 - 🐧 Linux system administration enthusiast
 - 🌐 Strong interest in networking & infrastructure
